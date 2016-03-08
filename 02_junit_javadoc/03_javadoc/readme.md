@@ -1,0 +1,33 @@
+# Aufgabe: JavaDoc schreiben
+
+## Lernziel
+
+Eine vorhandene Klasse mit korrekten JavaDoc-Kommentaren versehen.
+
+
+## Umgebung
+
+  * Kommandozeile
+  * Eclipse
+
+
+## Aufgabe
+
+Im aktuellen Projekt finden Sie eine Klasse namens `Waehrung`, die eine Währung repräsentiert. Leider hat ein böser Geist bei dieser Klasse fast die gesamte JavaDoc gelöscht.
+
+Schreiben Sie eine sinnvolle JavaDoc für die Klasse `Waehrung`, die insbesondere die Funktion der Methoden und deren Parameter und Rückgabewerte erläutert. Vergessen Sie nicht, auch die Klasse an selbst zu dokumentieren.
+
+Prüfen Sie, ob sich die Klasse noch korrekt compilieren lässt, bevor sie fortfahren.
+
+    > javac Waehrung.java
+
+Überprüfen Sie, ob Ihre Lösung auch wirklich dem Coding-Standard entspricht, indem, Sie das Werkzeug checkstyle einsetzen.
+
+    > tpe checkstyle Waehrung.java
+
+Wenn checkstyle Fehler ausgibt, lesen die Fehlermeldung sorgfältig und korrigieren sie Ihre Lösung entsprechend.
+
+
+## Abgabe
+
+Commiten Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
