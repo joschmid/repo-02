@@ -21,13 +21,11 @@ Prüfen Sie, ob sich die Klasse noch korrekt compilieren lässt, bevor sie fortf
 
     > javac Waehrung.java
 
-Überprüfen Sie, ob Ihre Lösung auch wirklich dem Coding-Standard entspricht, indem, Sie das Werkzeug checkstyle einsetzen.
-
-    > tpe checkstyle Waehrung.java
+Überprüfen Sie, ob Ihre Lösung auch wirklich dem Coding-Standard entspricht, indem, Sie das Werkzeug checkstyle einsetzen. Schalten Sie hierzu Checkstyle für das Projekt ein.
 
 Wenn checkstyle Fehler ausgibt, lesen die Fehlermeldung sorgfältig und korrigieren sie Ihre Lösung entsprechend.
 
 
 ## Abgabe
 
-Commiten Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
+Committen Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.

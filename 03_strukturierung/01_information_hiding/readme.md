@@ -25,11 +25,9 @@ Führen Sie die Tests erneut aus und stellen Sie sicher, dass die Berechnungen n
 
 Überprüfen Sie, ob Ihre Lösung dem Coding-Standard entspricht, indem, Sie das Werkzeug checkstyle einsetzen.
 
-    > tpe checkstyle Rechner.java
-
 Wenn checkstyle Fehler ausgibt, lesen die Fehlermeldung sorgfältig und korrigieren sie Ihre Lösung entsprechend.
 
 
 ## Abgabe
 
-Commiten Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
+Committen Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.

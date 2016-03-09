@@ -45,4 +45,4 @@ Wenn Sie mit der Aufgabe zu schnell fertig geworden sind, versuchen Sie das Spie
 
 ## Abgabe
 
-Commiten Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
+Committen Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.

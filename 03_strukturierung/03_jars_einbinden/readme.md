@@ -24,4 +24,4 @@ Kommentieren Sie die auskommentierten Passagen in der Klasse `PieChart` wieder e
 
 ## Abgabe
 
-Commiten Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
+Committen Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.

@@ -43,5 +43,5 @@ Testen Sie die Funktionsweise Ihrer Methode mit dem vorgegebenen JUnit-Test. Ent
 
 ## Abgabe
 
-Commiten Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
+Committen Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
 

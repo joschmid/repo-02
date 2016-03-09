@@ -22,4 +22,4 @@ Die Klasse ComplexNumber enthält einen oder mehrere Fehler, die Sie durch Ihre 
 
 ## Abgabe
 
-Commiten Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
+Committen Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.

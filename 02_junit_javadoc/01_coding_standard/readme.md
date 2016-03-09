@@ -1,4 +1,4 @@
-# Aufgabe: Coding-Standard
+# Aufgabe: Java-Coding-Standard anwenden
 
 ## Lernziel
 
@@ -20,19 +20,17 @@ Compilieren Sie die Datei `CodingStandard.java` und stellen Sie so sicher, dass 
 
     > javac CodingStandard.java
 
-Öffnen Sie die Datei `CodingStandard.java` in einem Texteditor und formatieren Sie sie so um, dass sie dem in der Vorlesung vorgestellten Coding-Standard entspricht.
+Öffnen Sie die Datei `CodingStandard.java` in Eclipse und formatieren Sie sie so um, dass sie dem in der Vorlesung vorgestellten Coding-Standard entspricht.
 
 Prüfen Sie, ob sich die Klasse noch korrekt compilieren lässt, bevor sie fortfahren.
 
     > javac CodingStandard.java
 
-Überprüfen Sie, ob Ihre Lösung auch wirklich dem Coding-Standard entspricht, indem, Sie das Werkzeug checkstyle einsetzen.
+Überprüfen Sie, ob Ihre Lösung auch wirklich dem Coding-Standard entspricht, indem Sie in Eclipse Checkstyle für das Projekt einschalten.
 
-    > tpe checkstyle CodingStandard.java
-
-Wenn checkstyle Fehler ausgibt, lesen die Fehlermeldung sorgfältig und korrigieren sie Ihre Lösung entsprechend.
+Wenn checkstyle Fehler anzeigt, lesen die Fehlermeldung sorgfältig und korrigieren sie Ihre Lösung entsprechend. Fahren Sie solange fort, bis keine Fehler mehr angezeigt werden.
 
 
 ## Abgabe
 
-Commiten Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
+Committen Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.

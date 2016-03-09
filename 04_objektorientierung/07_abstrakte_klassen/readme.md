@@ -19,4 +19,4 @@ Führen Sie eine neue _abstrakte_ Klasse `Figur` ein und vereinfachen Sie mit di
 
 ## Abgabe
 
-Commiten Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
+Committen Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.

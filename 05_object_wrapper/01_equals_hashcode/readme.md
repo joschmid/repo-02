@@ -26,4 +26,4 @@ Führen Sie den Test erneut aus, um sicherzustellen, dass die Methoden richtig f
 
 ## Abgabe
 
-Commiten Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
+Committen Sie Ihre Lösung und pushen Sie sie danach in Ihr Repository.
